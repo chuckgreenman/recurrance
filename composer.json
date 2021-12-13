@@ -1,0 +1,11 @@
+{
+    "name": "chuckgreenman/recurrence",
+    "autoload": {
+        "psr-4": {
+            "Chuckgreenman\\Recurrence\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
